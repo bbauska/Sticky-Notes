@@ -1,4 +1,4 @@
 User-Agent: *
 Disallow: 
 
-Sitemap: https://github.com/bbauska/sticky-notes
+Sitemap: https://github.com/bbauska/Sticky-Notes
